@@ -1,5 +1,6 @@
-# VALPHASOCIAL: Benchmark and Self-Reflective Chain-of-Thought
-Generation for Visual Social Commonsense Reasoning
+# VALPHASOCIAL: Benchmark and Self-Reflective Chain-of-Thought Generation for Visual Social Commonsense Reasoning
+
+Here are the detailed steps to run eval on our benchmark. We provide two examples for reference.
 ### Step 0 Installation & Setup Essential Keys
 Installation.
 ```bash
