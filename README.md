@@ -4,7 +4,6 @@ Here are the detailed steps to run eval on our benchmark. We provide two example
 ### Step 0 Installation & Setup Essential Keys
 Installation.
 ```bash
-https://github.com/XiaohanSong0930/VLMEvalkit.git
 cd VLMEvalKit
 pip install -e .
 ```
